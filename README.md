@@ -1,2 +1,2 @@
-# javascript.pkk
+# java.js
 bsdd
